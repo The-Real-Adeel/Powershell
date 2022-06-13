@@ -1,6 +1,6 @@
 # **Adeel's PowerShell Scripts**
 ---
-This repo contains scripts uploaded for public view.
+This repo contains PowerShell scripts. Uploaded for public view.
 
 **Script - AD User Onboarding.ps1**
 
